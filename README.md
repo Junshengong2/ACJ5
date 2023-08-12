@@ -1,4 +1,4 @@
-# Project Name
+# GSC Web Development
 
 [Project Logo or Image (if available)]
 
